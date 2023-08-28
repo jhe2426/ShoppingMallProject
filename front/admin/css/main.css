@@ -1,6 +1,18 @@
 :root {
     --nav-main-color : #2a3f54;
     --nav-font-color : #e5e5e5;
+    --table-line-color : #dee2e6;
+    --table-head-color : #405467;
+    --caption-color : #73879c;
+    --section-background-color : #f7f7f7;
+    --item-background-color : #ffffff;
+    --item-border-color : #e6e9ed;
+    --checkbox-color : #d7dcde;
+    --btn-blue: #007bff;
+    --btn-red: #ef5350;
+    --btn-green: #26b99a;
+    --pagenation-color: #dddddd;
+    --input-color: #ced4da;
 }
 
 *{
