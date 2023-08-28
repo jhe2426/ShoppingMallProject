@@ -159,6 +159,25 @@
             font-size: 17px;
         }
 
+        .category-title-text {
+            margin-left: 108px;
+            margin-top: 190px;
+            margin-bottom: -15px;
+            font-weight:bold;
+            font-size: 30px;
+        }
+        .function {
+            margin-left: 108px;
+            margin-top: 90px;
+            margin-bottom: -30px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .sort {
+            display: inline-block;
+            margin-right: 130px;
+        }
         .footer_wrap {
             margin-top: 200px;
             text-align: center;
