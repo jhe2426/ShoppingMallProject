@@ -1,0 +1,115 @@
+a {
+    text-decoration: none;
+}
+
+.mypage-content {
+    margin-top: 200px;
+    display: flex;
+    height: 820px;
+    justify-content: center;
+}
+
+.select-navbar {
+    border-right: 1px solid #CDCDCD;
+}
+.select-navbar-title {
+    margin-left: 39px;
+    border-bottom: 1px solid #CDCDCD;
+}
+.select-navbar-title > p {
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: -1px;
+    width: 250px;
+}
+
+.select-navbar > ul {
+    margin-top: 10px;
+}
+.select-navbar > ul > li {
+    font-weight: 800;
+    margin-top: 5px;
+}
+
+.select-navbar > ul > li:hover {
+    background-color: #F1F1F1;
+}
+
+.bookmark-list-content {
+    width: 1000px;
+}
+.bookmark-title {
+    margin-left: 30px;
+    border-bottom: 1px solid black;
+    width: 1000px;
+}
+
+.bookmark-title > p {
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: -1px;
+    width: 250px;
+}
+
+.table-title {
+   text-align: center;
+   margin-left: 33px;
+}
+
+.line {
+    margin-left: 32px;
+    border-bottom: 1px solid #CDCDCD;
+    width: 1000px;
+    margin-bottom: 15px;
+}
+
+.bookmark-table-title{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;
+}
+
+
+.bookmark-table-content {
+    margin-left: 125px;
+    margin-right: 85px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bookmark-product {
+    display: flex;
+    justify-content: space-between;
+    width: 550px;
+}
+
+.bookmark-image {
+    width: 100px;
+    height: 100px;
+}
+
+.bookmark-text {
+    margin-top: 36px;
+    color: #000;
+}
+
+
+.bookmark-cancel-button {
+    margin-top: 33px;
+    margin-right: -10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.bookmark-cancel-button:hover {
+    background-color: black;
+    color: white;
+}
+
+.pagination {
+    margin-top: 30px;
+    margin-left: 80px;
+}
